@@ -1,0 +1,4 @@
+resources:
+- manifest.yaml
+
+namespace: argocd
