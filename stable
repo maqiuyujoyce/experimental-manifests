@@ -1,0 +1,6 @@
+# Versions for the stable channel
+manifests:
+- name: argocd
+  version: 0.0.1
+- name: configsync
+  version: 1.14.1
